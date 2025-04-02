@@ -21,13 +21,13 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 11]
- - Sofware Version [e.g. Maya 2023, 3ds Max 2024]
+ - Software Version: [e.g. Maya 2023, 3ds Max 2024]
 
-** Game & Data Information**
+**Game & Data Information**
  - File Name: 
  - Game Series: 
  - Plugin Version: 
- - Database Status:
+ - Database Status: 
 
 **Additional context**
 Add any other context about the problem here.
